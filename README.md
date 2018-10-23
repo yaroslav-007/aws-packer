@@ -20,6 +20,8 @@ all pre-requirementa to make this work here:
 
 ## How to run the code
 In the terminal run the following commands:
-	export AWS_ACCESS_KEY_ID=<ACCESS_KEY>
+```
+    export AWS_ACCESS_KEY_ID=<ACCESS_KEY>
     export AWS_SECRET_ACCESS_KEY=<SECRET_ACCESS>
-	packer build template.json
+    packer build template.json
+```
